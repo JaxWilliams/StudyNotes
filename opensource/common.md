@@ -52,3 +52,6 @@ function bind(method, context) {
 ## Windows Phone
 `var deviceIsWindowsPhone = navigator.userAgent.indexOf("Windows Phone") >= 0;`
 
+# 开源项目相似文件
+- `.editorconfig` -> [EditorConfig](editorconfig.org)统一不同编辑器的格式处理
+- `bower.json` -> bower 包管理工具
